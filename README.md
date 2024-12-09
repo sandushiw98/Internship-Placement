@@ -26,5 +26,4 @@ This project implements an Agent-Based Model (ABM) using NetLogo to address the 
 ## Contributions
 Contributions are welcome! Feel free to submit issues or create pull requests.
 
-## License
-This project is licensed under the MIT License. See the `LICENSE` file for details.
+
